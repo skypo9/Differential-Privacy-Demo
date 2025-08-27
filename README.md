@@ -1,6 +1,6 @@
 # Differential Privacy Demonstration
 
-A comprehensive demonstration of differential privacy concepts for preserving individual privacy while maintaining statistical utility in data analysis.
+This is a fundamental demonstration of differential privacy concepts, which preserve individual privacy while maintaining statistical utility in data analysis.
 
 ## Overview
 
@@ -9,7 +9,7 @@ Differential privacy is a mathematical framework that provides strong privacy gu
 ## Key Concepts
 
 ### 🔒 **Core Principles**
-- **Individual Indistinguishability**: Presence or absence of any individual doesn't significantly change query results
+- **Individual Indistinguishability**: The Presence or absence of any individual doesn't significantly change query results
 - **Mathematical Guarantees**: Formal bounds on privacy loss with parameter ε (epsilon)
 - **Composability**: Multiple queries can be safely combined with known privacy costs
 - **Robustness**: Protection against arbitrary background knowledge attacks
@@ -36,7 +36,7 @@ Differential privacy is a mathematical framework that provides strong privacy gu
 ### 🎯 **Real-World Applications**
 - **Census Statistics**: Population demographics with privacy protection
 - **Medical Research**: Clinical data sharing without individual exposure
-- **Technology Companies**: User behavior analytics (Apple, Google implementations)
+- **Technology Companies**: User behaviour analytics (Apple, Google implementations)
 - **Smart Cities**: Traffic and usage patterns with citizen privacy
 
 ## Technical Implementation
@@ -51,7 +51,7 @@ Differential privacy is a mathematical framework that provides strong privacy gu
 
 2. **MedicalDataGenerator**: Realistic data simulation
    - Patient demographics and medical measurements
-   - Disease prevalence modeling
+   - Disease prevalence modelling
    - Treatment cost distributions
    - Synthetic but realistic correlations
 
